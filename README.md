@@ -19,4 +19,4 @@ In this HW we received an html and css file. Our goal was to clean up the code w
 
 4. Followed practices for HTML/CSS practices.
 
-5. Optimized CSS rules from 214 to 141 lines.
+5. Optimized CSS rules from 214 to 117 lines.
